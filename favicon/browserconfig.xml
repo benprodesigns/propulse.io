@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<browserconfig>
+    <msapplication>
+        <tile>
+            <square150x150logo src="https://cdn.discordapp.com/attachments/1175098981328633967/1175099384229277756/mstile-150x150.png"/>
+            <TileColor>#00aba9</TileColor>
+        </tile>
+    </msapplication>
+</browserconfig>
